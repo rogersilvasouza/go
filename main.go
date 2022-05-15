@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "rsc.io/quote"
+import quote "rsc.io/quote"
 
 func main() {
     fmt.Println("Hello World")
